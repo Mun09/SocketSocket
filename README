@@ -1,0 +1,2 @@
+server stack: fastapi
+client stack: react
